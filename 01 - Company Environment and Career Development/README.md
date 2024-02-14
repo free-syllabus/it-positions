@@ -4,7 +4,6 @@
 
 - To show differences between various types of companies and its impact on (not only) career development.
 - Company types that we should attempt to cover are freelancer/small company vs IT corporation; IT vs non-IT company; civil service. 
-
 - Startups are intentionally ignored as they have their own session later on. 
 
 ## Question proposals
