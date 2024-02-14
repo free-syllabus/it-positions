@@ -7,3 +7,11 @@
 ## Podcasty
 
 - [Junior.Guru - Podcast pro juniory v IT](https://junior.guru/podcast/)
+
+## Citáty
+- Korporát není tvoje babička
+- Práci děláte pro peníze
+- Ani korporát ty peníze nesere
+
+## Funny
+- IT Crowd & Jen's interview: video(https://www.youtube.com/watch?v=NuPolrd9yuo)
