@@ -20,5 +20,6 @@
 - survey (multiple-choice): How high you have to be on the career ladder in order to talk about "successfull" career? ~ positions from career ladder
 
 ## Materials
+- Tomáš Tomeček, Senior Principal SWE (Red Hat Czech) [slides](https://tomastomecek.github.io/speaks/2019-openschool-what-is-a-dev-career-like/) in Czech 
 
 ## Homeworks
