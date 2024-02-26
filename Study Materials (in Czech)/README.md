@@ -9,7 +9,7 @@
 - [Junior.Guru - Podcast pro juniory v IT](https://junior.guru/podcast/)
 
 ## Slajdy
-- [Junior jako investice], autor Honza Javorek
+- [Junior jako investice](https://speakerdeck.com/honzajavorek/junior-jako-investice-proc-je-mit-v-tymu-a-jak-je-zaucovat), autor Honza Javorek
 
 ## Citáty
 - Korporát není tvoje babička
