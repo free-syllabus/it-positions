@@ -8,6 +8,9 @@
 
 - [Junior.Guru - Podcast pro juniory v IT](https://junior.guru/podcast/)
 
+## Slajdy
+- [Junior jako investice], autor Honza Javorek
+
 ## Citáty
 - Korporát není tvoje babička
 - Práci děláte pro peníze
