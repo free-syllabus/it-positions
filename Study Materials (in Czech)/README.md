@@ -4,6 +4,7 @@
 - [12 typických IT pozic](https://itpozice.czechitas.cz/), autor [Czechitas](https://www.czechitas.cz/)
 - [Na volné noze: Podnikejte jako profesionálové](https://www.databazeknih.cz/knihy/na-volne-noze-321161), autor Robert Vlach
 - [Junior jako investice](https://speakerdeck.com/honzajavorek/junior-jako-investice-proc-je-mit-v-tymu-a-jak-je-zaucovat), autor Honza Javorek
+- [Pří­ruč­ka pro ju­ni­o­ry: Životopis](https://junior.guru/handbook/cv/), author Honza Javorek
 
 ## Podcasty
 
