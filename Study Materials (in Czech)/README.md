@@ -4,7 +4,12 @@
 - [12 typických IT pozic](https://itpozice.czechitas.cz/), autor [Czechitas](https://www.czechitas.cz/)
 - [Na volné noze: Podnikejte jako profesionálové](https://www.databazeknih.cz/knihy/na-volne-noze-321161), autor Robert Vlach
 - [Junior jako investice](https://speakerdeck.com/honzajavorek/junior-jako-investice-proc-je-mit-v-tymu-a-jak-je-zaucovat), autor Honza Javorek
-- [Pří­ruč­ka pro ju­ni­o­ry: Životopis](https://junior.guru/handbook/cv/), author Honza Javorek
+- [Pří­ruč­ka pro ju­ni­o­ry: Životopis](https://junior.guru/handbook/cv/), autor Honza Javorek
+- [Tipy pro juniory - @quickjobs_apps](https://www.instagram.com/quickjobs_app/), autor QuickJobs - pracovní platforma pro mladé
+
+## Studijní materiály v angličtine
+- [Praktické typy pro kontraktora - @thejamiebrindle](https://www.instagram.com/thejamiebrindle/), autor Jamie Brindle
+
 
 ## Podcasty
 
